@@ -1,0 +1,7 @@
+C:\проэкты\Payment System\Payment System\bin\Debug\Payment System.exe.config
+C:\проэкты\Payment System\Payment System\bin\Debug\Payment System.exe
+C:\проэкты\Payment System\Payment System\bin\Debug\Payment System.pdb
+C:\проэкты\Payment System\Payment System\obj\Debug\Payment System.csproj.AssemblyReference.cache
+C:\проэкты\Payment System\Payment System\obj\Debug\Payment System.csproj.CoreCompileInputs.cache
+C:\проэкты\Payment System\Payment System\obj\Debug\Payment System.exe
+C:\проэкты\Payment System\Payment System\obj\Debug\Payment System.pdb
